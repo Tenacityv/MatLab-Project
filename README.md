@@ -1,7 +1,7 @@
 # MatLab-Project
 
 Photos of the car:
-<img width="520" alt="car" src="https://github.com/Tenacityv/MatLab-Project/assets/126134324/3b150d30-228f-445f-8392-0835f2fd8c7b">
+<img width="520" alt="car" target="_blank" src="https://github.com/Tenacityv/MatLab-Project/assets/126134324/3b150d30-228f-445f-8392-0835f2fd8c7b">
 
 Description of car behavior:
 The car we designed is fully automated, able to completely navigate the maze provided and also
